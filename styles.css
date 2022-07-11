@@ -1,0 +1,70 @@
+body {
+  background: #70A9A1;
+  background-clip: url(https://www.pexels.com/video/video-of-big-waves-854747/);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family:'Bebas Neue';
+}
+
+/* .video{
+	position:absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	opacity: 0.8;
+} */
+
+.e {
+font-size: 20px;
+color: #1F363D;
+}
+
+.n{
+	color:#1F363D;
+	font-size: 20px;
+}
+
+nav {
+	border-bottom: 3px solid #CFE0C3;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+	text-shadow: 0 0 3px #1F363D;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: #FA7921;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 400px;
+	border: 3px solid #FA7921;
+	margin: auto; 
+	display:block;
+}
+
+.button{
+	background-color:yellow;
+	height: 65px;
+	width: 90px;
+}
+
